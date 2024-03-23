@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikay-0111&label=Profile%20views&color=0e75b6&style=flat" alt="kartikay-0111" /> </p>
 
 - 🏫 I am currently pursuing **B.tech IT in VJTI,Mumbai**
-- 
+  
 - 🌱 I’m currently learning **Web Development and DSA**
-- 
+  
 - 👨‍💻 All of my projects are available at [https://kartikay7905.vercel.app/](https://kartikay7905.vercel.app/)
 
 - 💬 Ask me about **Frontend,React,DSA**
