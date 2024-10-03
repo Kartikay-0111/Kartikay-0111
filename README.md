@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartikay Pandey</h1>
-<h3 align="center">A MERN stack developer and tech enthusiast from India</h3>
+<!-- <h3 align="center">A MERN stack developer and tech enthusiast from India</h3> -->
 
 - 🏫 I am currently pursuing **B.tech IT in VJTI,Mumbai**
   
-- 🌱 I’m currently enhancing my skills in **Web Development and DSA**
+- 🌱 I’m currently enhancing my skills in **Web development and DSA** and learning **ML**
   
 - 👨‍💻 All of my projects are available at [https://kartikay7905.vercel.app/](https://kartikay7905.vercel.app/)
-
-- 💬 Ask me about **Web Development,React,DSA**
 
 - 📫 How to reach me **kartikay7905@gmail.com**
 
