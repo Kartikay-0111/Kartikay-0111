@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Kartikay Pandey Banner"/>
+  <img src="./banner_github.png" alt="Kartikay Pandey Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartikay Pandey</h1>
