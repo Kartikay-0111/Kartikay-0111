@@ -32,35 +32,42 @@
 
 ---
 
-<h3 align="left">💻 Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go" />
-</p>
+<table>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,go" height="35" />
+    </td>
+  </tr>
 
-<h3 align="left">🌐 Frontend</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="35" />
+    </td>
+  </tr>
 
-<h3 align="left">⚙️ Backend & APIs</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
-</p>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" height="35" />
+    </td>
+  </tr>
 
-<h3 align="left">🗄️ Databases & Caching</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
+  <tr>
+    <td><b>🗄️ Data & AI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,opencv,tensorflow,pytorch" height="35" />
+    </td>
+  </tr>
 
-<h3 align="left">☁️ Cloud, DevOps & Systems</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,kafka,git,github,vscode" />
-</p>
-
-<h3 align="left">🤖 AI / ML & Computer Vision</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
-</p>
+  <tr>
+    <td><b>☁️ DevOps & Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,kafka,git,github,vscode" height="35" />
+    </td>
+  </tr>
+</table>
 
 ---
 
