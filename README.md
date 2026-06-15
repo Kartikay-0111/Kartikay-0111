@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartikay Pandey</h1>
-<h3 align="center">Full-Stack Developer | ICPC Regionalist '24 | Exploring Scalable Systems, Distributed Computing & AI</h3>
+<h3 align="center">Full-Stack Developer | ICPC Regionalist '24 | Exploring Scalable and Distributed Systems & AI</h3>
 
 - 🏫 Pursuing **B.Tech in Information Technology** at **VJTI, Mumbai**
 - 💻 Building full-stack applications with **MERN, Next.js, PostgreSQL, and Supabase**
